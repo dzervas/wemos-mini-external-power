@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name wemos-d1-mini)(type KiCad)(uri ${KIPRJMOD}/wemos-d1-mini-kicad/modules/wemos-d1-mini.pretty)(options "")(descr ""))
+  (lib (name wemos_d1_mini)(type KiCad)(uri ${KIPRJMOD}/wemos-d1-mini-kicad/3dshapes/wemos_d1_mini.3dshapes)(options "")(descr ""))
+)
